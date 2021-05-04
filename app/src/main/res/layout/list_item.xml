@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal">
+
+    <TextView
+        android:id="@+id/anime_text_view"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.4"
+        android:layout_marginLeft="10dp"
+        android:padding="10dp"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body2"
+        tools:text="@string/anime_name"/>
+
+    <TextView
+        android:id="@+id/rating_text_view"
+        android:layout_width="10dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.1"
+        android:padding="10dp"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body2"
+        tools:text="@string/rating"
+        android:textColor="@color/colorPrimary"
+        />
+
+</LinearLayout>

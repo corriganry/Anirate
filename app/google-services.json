@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "781831432702",
+    "project_id": "anirate-55c40",
+    "storage_bucket": "anirate-55c40.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781831432702:android:827cc3bd6c2344dd40b8af",
+        "android_client_info": {
+          "package_name": "edu.lewisu.cs.corriganry.anirate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "781831432702-0tv8cgoo0p7qsko8kh15tekc33eckr84.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe2M1NldH9vOGdpbVp-pA68iYYy9slEdM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "781831432702-0tv8cgoo0p7qsko8kh15tekc33eckr84.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
